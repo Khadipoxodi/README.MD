@@ -8,17 +8,17 @@
 
 ---
 
-- 📫 Как связаться со мной:
+### 📫 Как связаться со мной:
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:feviki28@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kh_khad)
 
 
 ---
-## Электронные сертификаты
+## Электронные сертификаты:
 
-- 2024 — ["Поколение Python": курс для начинающих](https://stepik.org/cert/2810618)
-- 2024 — ["Тестирование ПО с нуля. Теория + Практика"](https://stepik.org/cert/2821731) 
+- 2025 — ["Поколение Python": курс для начинающих](https://stepik.org/cert/2810618)
+- 2025 — ["Тестирование ПО с нуля. Теория + Практика"](https://stepik.org/cert/2821731) 
 
 ---
 
